@@ -1,6 +1,0 @@
-milk 
-egg
-bread
-apple
-banana
-coffee
